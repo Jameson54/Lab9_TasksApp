@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tasks</string>
+    <string name="home_title">Tasks</string>
+    <string name="new_task">Новая задача</string>
+    <string name="edit_task">Редактирование задачи</string>
+    <string name="task_title">Название</string>
+    <string name="task_description">Описание</string>
+    <string name="task_date">Дата</string>
+    <string name="task_time">Время</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="edit">Изменить</string>
+    <string name="all_dates">Все даты</string>
+    <string name="empty_tasks">Нет задач на выбранную дату</string>
+    <string name="sort_title">Сортировка</string>
+    <string name="pick_date">Выбрать дату в календаре</string>
+</resources>
